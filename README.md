@@ -45,8 +45,7 @@ To use this calculator app
 ## Screenshots
 
 
-![Screenshot 2024-09-17 234726](https://github.com/user-attachments/assets/caf9e861-3f33-4154-b188-f0d6fa25d6fa)   ![Screenshot 2024-09-17 230103](https://github.com/user-attachments/assets/a7e99561-bc8f-45a3-9d51-4f8ca6c75de0)
-
+![Screenshot 2024-09-17 234726](https://github.com/user-attachments/assets/caf9e861-3f33-4154-b188-f0d6fa25d6fa)  ![Screenshot 2024-09-17 235242](https://github.com/user-attachments/assets/ab64f013-9a17-456c-b814-9b8cc52f9a72)
 
 
 
